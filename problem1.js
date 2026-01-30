@@ -4,4 +4,4 @@ const student = {
     age: 25,
     grade: "A+"
 }
-console.log(student)
+// console.log(student)
